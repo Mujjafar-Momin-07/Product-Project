@@ -6,7 +6,7 @@ Run the main file ProductApplication.java from com.spring.product.Product
 
 use postman to perform CRUD and
 
-json input "{
+json input:- "{
     "productId":1003,
     "name":"Lenovo",
     "productType":"Laptop",
